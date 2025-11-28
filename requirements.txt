@@ -1,0 +1,15 @@
+flask
+requests
+python-dotenv
+openai
+opencv-python
+numpy
+pillow
+speechrecognition
+pydub
+transformers
+torch
+face-recognition
+pymongo
+bcrypt
+flask-session
